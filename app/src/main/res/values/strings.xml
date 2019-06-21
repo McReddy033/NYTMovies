@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NYT Movies</string>
+    <string name="count_articles">Число рецензий %1$d</string>
+</resources>
